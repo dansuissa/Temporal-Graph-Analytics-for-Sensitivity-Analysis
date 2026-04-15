@@ -49,6 +49,6 @@ At a high level, the results suggest that:
 
 ## Authors
 
-Christina Vuong
-Dan Suissa
-Yunjia Tian
+- Christina Vuong
+- Dan Suissa
+- Yunjia Tian
